@@ -17,3 +17,10 @@ we use function programming to impose dicipline on the location of and
 access to data; 
 
 we use structured programming as the algorithmic foundation of our modules
+
+---
+Scientific theories and laws are *falsifiable* but not *provable*
+
+Science does not work by proving statements true, but rather by proving statements false.
+
+Testing shows the presence, not the absence, of bugs. -- Dijkstra
